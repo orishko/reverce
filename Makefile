@@ -1,4 +1,4 @@
 install:
-	npx install
+	npm install
 lint:
 	npx eslint .
